@@ -1,0 +1,32 @@
+a:link, a:visited
+	{
+		background-color: #4F6367;
+		color: white;
+		text-decoration: none;
+		padding: 1%;
+	}
+
+
+#ac1 {
+		float: left;
+	}
+
+#ac2 {
+		float: right;
+	}
+
+#ac3 {
+		float: left;
+	}
+
+#ac4 {
+		float: right;
+	}
+#ac5 {
+		float: left;
+	}
+
+#ac6 {
+		float: right;
+	}
+
